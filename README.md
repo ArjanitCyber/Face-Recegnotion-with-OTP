@@ -1,6 +1,3 @@
-Here’s a professional and structured description of your face recognition authentication project:  
-
----
 
 # Face-Recognition-OTP-Authentication  
 
