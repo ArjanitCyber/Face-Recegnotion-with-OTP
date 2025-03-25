@@ -40,15 +40,6 @@ Face-Recognition-OTP-Authentication is a secure multi-factor authentication syst
    - Admins can manage user accounts (view, delete users).  
    - They can regenerate QR codes for users if needed.  
 
-## 📂 Project Structure  
-```
-Face-Recognition-OTP-Authentication/  
-│── known_faces/          # Stored facial images of registered users  
-│── user_secrets.txt      # Stores OTP secret keys for users  
-│── main.py               # Core application logic (GUI, authentication)  
-│── requirements.txt      # Dependencies for the project  
-│── README.md             # Project documentation  
-```
 
 ## 📜 Installation & Usage  
 ### 🔧 Requirements  
