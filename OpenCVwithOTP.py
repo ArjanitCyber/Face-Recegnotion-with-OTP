@@ -11,7 +11,7 @@ import qrcode  #qr code
 
 KNOWN_FACES_DIR = 'known_faces'
 USER_SECRETS_FILE = 'user_secrets.txt'
-
+#***
 if not os.path.exists(KNOWN_FACES_DIR):
     os.makedirs(KNOWN_FACES_DIR)
 
